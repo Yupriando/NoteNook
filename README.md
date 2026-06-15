@@ -265,22 +265,6 @@ flutter run
 
 ---
 
-## Screenshots
-
-Add screenshots of the application here if needed.
-
-Example:
-
-```markdown
-![Login Page](docs/login.png)
-
-![Home Page](docs/home.png)
-
-![Chat Page](docs/chat.png)
-```
-
----
-
 ## Contributors
 
 - Yupriando
