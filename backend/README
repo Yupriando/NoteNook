@@ -1,0 +1,2 @@
+Sebelum run project ini ubah baseUrl dengan ip address ipv4 yang sedang digunakan pada bagian backend/config/app.js dan frontend/lib/utils/api.dart agar bisa menjalankan file ini dengan benar.
+
