@@ -268,8 +268,8 @@ flutter run
 ## Contributors
 
 - Yupriando
-- Naufal Maulana I.
-- Jason Nathaniel P.
+- Naufal Maulana Ichlas
+- Jason Nathaniel Prijatno
 
 ---
 
